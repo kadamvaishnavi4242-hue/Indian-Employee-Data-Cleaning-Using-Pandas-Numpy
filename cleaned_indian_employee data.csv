@@ -1,0 +1,26 @@
+Emp_ID,Name,Age,Salary (INR),Experience (Years),City,Department,Performance Rating
+101,Amit Sharma,27,650000.0,4.0,Delhi,IT,4.5
+102,Riya Gupta,32,788400.0,8.0,Mumbai,HR,3.8
+103,Rajesh Verma,45,1200000.0,,Bangalore,Finance,4.9
+104,Priya Singh,26,720000.0,2.0,Kolkata,IT,4.2
+105,Sunil Kumar,29,500000.0,3.0,Chennai,Sales,4.4
+107,Kavita Yadav,34,850000.0,,Pune,IT,4.0
+108,Pankaj Mishra,24,450000.0,2.0,Jaipur,Marketing,3.5
+109,Deepika Reddy,30,720000.0,6.0,Bangalore,Management,5.0
+110,Ramesh Patil,37,820000.0,15.0,Kolkata,IT,4.2
+111,Meera Nair,34,600000.0,7.0,Kochi,HR,4.3
+112,Sameer Desai,33,950000.0,35.0,Mumbai,Finance,4.8
+113,Swati Joshi,29,380000.0,1.0,Pune,IT,4.6
+114,Vinod Iyer,41,1250000.0,18.0,Hyderabad,Management,5.0
+115,Anjali Saxena,38,750000.0,9.0,Jaipur,HR,3.9
+116,Manish Khanna,40,1100000.0,7.0,Bangalore,Operations,4.7
+117,Arjun Pandey,27,900000.0,17.0,Delhi,IT,4.4
+118,Neha Kapoor,28,650000.0,4.0,Mumbai,IT,3.8
+119,Amit Sharma,27,650000.0,12.0,Delhi,Finance,4.5
+120,Rohit Bansal,36,700000.0,14.0,Mumbai,Operations,4.9
+121,Suresh Choudhri,42,1150000.0,20.0,Hyderabad,Sales,4.5
+122,Sneha Tiwari,51,550000.0,32.0,Kolkata,Management,3.6
+123,Gopal Das,39,700000.0,8.0,Kochi,HR,4.9
+124,Preeti Sharma,22,370000.0,7.0,Delhi,IT,4.1
+125,Aditya Saxena,31,700000.0,3.0,Mumbai,IT,3.2
+126,Kiran Kumar,29,400000.0,4.0,Pune,HR,4.4
